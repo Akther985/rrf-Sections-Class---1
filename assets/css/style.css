@@ -1,0 +1,45 @@
+.contact-form{
+    padding: 100px 80px;
+}
+.contact-form button, input, textarea {
+    margin-bottom: 20px;
+    border: none;
+    width: 100%;
+    padding: 10px auto;
+    padding: 10px;
+}
+.contact-form input, submit {
+    width: auto;
+}
+.absulet-text{
+    color: #fff;
+}
+.contact-form button:focus, input:focus ,textarea:focus  {
+    outline: none;
+}
+.Appointment-text{
+    padding: 100px 30px;
+}
+.Appointment-text ul{
+    list-style: none;
+    padding: 0;
+    
+}
+.Appointment-text a {
+    padding: 10px 40px;
+    background-color: #18E0F0 ;
+    margin-top: 60px;
+    display: block;
+    width: 160px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: #fff;
+}
+.Appointment-text ul li {
+    padding-top: 20px;
+    
+}
+.Appointment-text ul li i{
+    color: #18E0F0 ;
+    
+}
